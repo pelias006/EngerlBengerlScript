@@ -34,4 +34,5 @@ wfejan@tgm.ac.at,
 fwagner@student.tgm.ac.at,
 hkraus@tgm.ac.at,
 wstoiber@tgm.ac.at,
-pelias@student.tgm.ac.at
+pelias@student.tgm.ac.at,
+jhochsteger@student.tgm.ac.at
