@@ -37,7 +37,7 @@ def send_mapping_per_mail(mapping):
             msg['To'] = entry
             server.send_message(msg)
             from time import sleep
-            sleep(15)
+            sleep(15) # delay so rate limit gets bypassed :))
         server.quit()
 
 
